@@ -17,6 +17,11 @@ TaskManager-Pro-Java-Monolithic is a comprehensive, monolithic Java application 
 - **Maven**: Dependency management and build automation
 - **JUnit**: Unit testing framework
 
+## Screenshot
+
+<img width="1911" alt="Screenshot 2024-07-15 at 12 01 45 PM" src="https://github.com/user-attachments/assets/2b6cc03a-4e7d-40c1-8a72-527b84e3945d">
+
+
 ## Getting Started
 
 ### Prerequisites
